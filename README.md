@@ -11,4 +11,4 @@ Install nokogiri gem:
 
 `ruby findrubygems.rb`
 
-![Running findrubygems program](https://cdn.upload.systems/uploads/S0iQrJkh.gif)
+![Running findrubygems program](https://cdn.upload.systems/uploads/nUXaOH92.gif)
